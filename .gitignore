@@ -1,0 +1,15 @@
+# Entorno virtual
+entorno/
+
+# Archivos compilados
+__pycache__/
+*.pyc
+
+# Archivos de entorno
+.env
+
+# Jupyter
+.ipynb_checkpoints
+
+# Sistema
+.DS_Store
